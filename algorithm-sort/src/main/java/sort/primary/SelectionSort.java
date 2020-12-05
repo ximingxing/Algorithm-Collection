@@ -2,6 +2,11 @@ package sort.primary;
 
 import sort.Sort;
 
+/**
+ * Selection sort needs N^2/2 comparisons, and N exchanges.
+ * Time complexity : O(n^2)
+ * Space complexity: O(1)
+ */
 public class SelectionSort extends Sort {
 
     @Override
