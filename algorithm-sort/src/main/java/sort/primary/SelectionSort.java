@@ -3,7 +3,7 @@ package sort.primary;
 import sort.Sort;
 
 /**
- * Selection sort needs N^2/2 comparisons, and N exchanges.
+ * Selection sort needs (N^2)/2 comparisons, and N exchanges.
  * Time complexity : O(n^2)
  * Space complexity: O(1)
  */
@@ -22,12 +22,5 @@ public class SelectionSort extends Sort {
     public static void sort(Comparable[] a) {
         SelectionSort sort = new SelectionSort();
         sort.sortMethod(a);
-    }
-
-    public static void main(String[] args) {
-        Integer[] a = new Integer[]{8, 6, 7, 1, 2, 3, 9, 0, 8, 4, 5};
-        SelectionSort.sort(a);
-        assert SelectionSort.isSorted(a);
-        SelectionSort.show(a);
     }
 }
