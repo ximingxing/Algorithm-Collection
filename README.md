@@ -30,12 +30,11 @@
 <a href="https://ximingxing.github.io/">https://ximingxing.github.io/</a>
 </h6>
 
-Everything in this project is based on the Java language, using features such as the Java language paradigm. This
-project is built on Maven to decouple the source code from the test code. Has been completed test ✅ Java8 version.
-
 A series of data structures and algorithms implemented using the Java language.
 
-Aim to built Java Collection and more than Collection.
+> Everything in this project is based on the Java language, using features such as the Java language paradigm.
+> This project is built on Maven to decouple the source code from the test code.
+> Has been completed test ✅ Java8 version.
 
 <h2 align="center">:clipboard: Getting Started</h2>
 
@@ -107,6 +106,13 @@ With your questions, comments or even if you just want to say Hi.
 <p align="right"><a href="#title"><sup>▴ Back to top</sup></a></p>
 
 <h2 align="center">Acknowledgment</h2>
+
+[1] Robert Sedgewick, Kevin wayne. Algorithms (Fourth Edition)[M].Pearson Education Inc.,2011.
+
+> "Algorithms (4th Edition)," Sedgewick's masterpiece, is a classic reference book in the field of algorithms,
+> following in the direction of TAOCP.
+> It covers 50 algorithms that programmers must master, providing a comprehensive introduction
+> to algorithms and data structures, and specifically addressing sorting, searching, graph processing and string processing.
 
 <p align="right"><a href="#title"><sup>▴ Back to top</sup></a></p>
 
