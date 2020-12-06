@@ -56,11 +56,53 @@ With your questions, comments or even if you just want to say Hi.
 
 #### Sort
 
+* primary
+    * Selection sort
+    * Insertion sort
+* merge
+    * Top-down merge sort
+* priority
+    * PriorityQueue
+* quick
+    * Quick sort
+
 #### String
 
 #### Data Structure
 
+* array
+    * Dynamic array
+* list
+    * LinkedList
+* stack
+    * Array stack
+    * LinkedList stack
+* queue
+    * Array queue
+    * LinkedList queue
+    * Loop queue
+    * Priority queue
+* tree
+    * Binary search tree
+    * Segment tree
+    * Trie
+* map
+    * Binary search tree map
+    * LinkedList map
+* set
+    * Binary search tree set
+    * LinkedList set
+* heap
+    * Max heap
+
 #### Graph
+
+* graph
+    * Adjacent List
+    * Adjacent matrix
+    * Adjacent set
+* deep first search
+    * All pair path
 
 <p align="right"><a href="#title"><sup>▴ Back to top</sup></a></p>
 
