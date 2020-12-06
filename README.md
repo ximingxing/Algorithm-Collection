@@ -30,9 +30,8 @@
 <a href="https://ximingxing.github.io/">https://ximingxing.github.io/</a>
 </h6>
 
-Everything in this project is based on the Java language, using features such as the Java language paradigm.
-This project is built on Maven to decouple the source code from the test code.
-Has been completed test ✅ Java8 version.
+Everything in this project is based on the Java language, using features such as the Java language paradigm. This
+project is built on Maven to decouple the source code from the test code. Has been completed test ✅ Java8 version.
 
 A series of data structures and algorithms implemented using the Java language.
 
@@ -40,7 +39,8 @@ Aim to built Java Collection and more than Collection.
 
 <h2 align="center">:clipboard: Getting Started</h2>
 
-- Search for a specific Code. Can't find one? Please report a new Code [here](https://github.com/ximingxing/LeetCode-notepad/issues).
+- Search for a specific Code. Can't find one? Please report a new
+  Code [here](https://github.com/ximingxing/LeetCode-notepad/issues).
 
 <h2 align="center">About</h2>
 
@@ -60,7 +60,7 @@ With your questions, comments or even if you just want to say Hi.
 
 #### Data Structure
 
-#### Graph 
+#### Graph
 
 <p align="right"><a href="#title"><sup>▴ Back to top</sup></a></p>
 
