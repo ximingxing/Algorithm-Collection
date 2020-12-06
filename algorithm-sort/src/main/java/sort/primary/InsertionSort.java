@@ -8,6 +8,8 @@ import sort.Sort;
  * Space complexity: O(1)
  */
 public class InsertionSort extends Sort {
+
+    @Override
     public void sortMethod(Comparable[] a) {
         for (int i = 0; i < a.length; i++) {
             for (int j = i; j > 0; j--) {
