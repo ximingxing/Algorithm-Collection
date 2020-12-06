@@ -107,7 +107,7 @@ With your questions, comments or even if you just want to say Hi.
 
 <h2 align="center">Acknowledgment</h2>
 
-[1] Robert Sedgewick, Kevin wayne. Algorithms (Fourth Edition)[M].Pearson Education Inc.,2011.
+[1] Robert Sedgewick, Kevin wayne. Algorithms(Fourth Edition)[M]. Pearson Education Inc.,2011.
 
 > "Algorithms (4th Edition)," Sedgewick's masterpiece, is a classic reference book in the field of algorithms,
 > following in the direction of TAOCP.
