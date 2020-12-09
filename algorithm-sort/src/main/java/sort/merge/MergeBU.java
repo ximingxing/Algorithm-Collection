@@ -4,6 +4,8 @@ import sort.Sort;
 
 /**
  * Description: Down-top merge sort.
+ * Time complexity : O(NlogN)
+ * Space complexity: O(N)
  * Created By xxm
  */
 public class MergeBU extends Sort {
