@@ -35,6 +35,7 @@ public class MergeSort extends Sort {
     }
 
     private static void merge(Comparable[] a, int lo, int mid, int hi) {
+        // merge a[lo..mid] and a[mid+1..hi]
         int i = lo, j = mid + 1;
 
         // copy a[lo...hi] to aux[lo...hi].
